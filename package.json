@@ -9,15 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@isograph/react": "0.0.0-main-1b06d5f7",
     "next": "14.0.4",
     "next-auth": "^4.24.5",
     "react": "^18",
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@isograph/compiler": "0.0.0-main-1b06d5f7",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "babel-plugin-isograph": "0.0.0-main-1b06d5f7",
+    "babel-plugin-relay": "^16.1.0",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
     "typescript": "^5"
